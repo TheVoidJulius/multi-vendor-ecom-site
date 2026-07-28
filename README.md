@@ -5,12 +5,11 @@
 A modern, full-featured multi-vendor e-commerce platform with dedicated experiences for **Customers**, **Vendors**, and **Admins** — built with React, TypeScript, and Supabase.
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge)](https://your-deploy-link.vercel.app)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**[🔗 Live Demo](https://your-deploy-link.vercel.app)** · **[🐛 Report Bug](../../issues)** · **[✨ Request Feature](../../issues)**
+**[🔗 Live Demo](https://veloura0.netlify.app/)** · 
 
 </div>
 
@@ -156,7 +155,7 @@ npm run test:watch    # run tests in watch mode
 
 This project is deployed and live here:
 
-### 🔗 **[Visit Live Site →](https://your-deploy-link.vercel.app)**
+### 🔗 **[Visit Live Site →](https://veloura0.netlify.app/)**
 
 The app can be deployed to any static hosting provider that supports Vite builds (Vercel, Netlify, Cloudflare Pages, etc.). Just set the environment variables in your hosting provider's dashboard and set the build command to `npm run build` with output directory `dist`.
 
@@ -172,31 +171,6 @@ The app can be deployed to any static hosting provider that supports Vite builds
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-username)
-
----
 
 <div align="center">
 
